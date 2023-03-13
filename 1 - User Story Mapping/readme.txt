@@ -1,0 +1,1 @@
+This folder contains a User story Map of a Student's activity for the semester and screenshots.
